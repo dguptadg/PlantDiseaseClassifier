@@ -5,6 +5,12 @@ A deep learning project for identifying plant diseases from leaf images using mu
 
 ---
 
+## Live Link
+
+https://plantdiseaseclassifier-vlcrnsby6utakphfwbanhm.streamlit.app/
+
+---
+
 ## Project Overview
 
 The main goal of this project is to classify plant leaf diseases from the PlantVillage dataset and compare the performance of different deep learning models under the same training setup.
