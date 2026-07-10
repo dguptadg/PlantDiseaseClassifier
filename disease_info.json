@@ -1,0 +1,268 @@
+{
+  "Apple___Apple_scab": {
+    "description": "Apple scab is a disease affecting Apple plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Apple scab.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Apple scab.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Apple___Black_rot": {
+    "description": "Black rot is a disease affecting Apple plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Black rot.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Black rot.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Apple___Cedar_apple_rust": {
+    "description": "Cedar apple rust is a disease affecting Apple plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Cedar apple rust.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Cedar apple rust.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Apple___healthy": {
+    "description": "This Apple plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Blueberry___healthy": {
+    "description": "This Blueberry plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "description": "Powdery mildew is a disease affecting Cherry (including sour) plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Powdery mildew.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Powdery mildew.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "description": "This Cherry (including sour) plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "description": "Cercospora leaf spot Gray leaf spot is a disease affecting Corn (maize) plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Cercospora leaf spot Gray leaf spot.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Cercospora leaf spot Gray leaf spot.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "description": "Common rust  is a disease affecting Corn (maize) plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Common rust .",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Common rust .",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "description": "Northern Leaf Blight is a disease affecting Corn (maize) plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Northern Leaf Blight.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Northern Leaf Blight.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Corn_(maize)___healthy": {
+    "description": "This Corn (maize) plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Grape___Black_rot": {
+    "description": "Black rot is a disease affecting Grape plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Black rot.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Black rot.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "description": "Esca (Black Measles) is a disease affecting Grape plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Esca (Black Measles).",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Esca (Black Measles).",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "description": "Leaf blight (Isariopsis Leaf Spot) is a disease affecting Grape plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Leaf blight (Isariopsis Leaf Spot).",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Leaf blight (Isariopsis Leaf Spot).",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Grape___healthy": {
+    "description": "This Grape plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "description": "Haunglongbing (Citrus greening) is a disease affecting Orange plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Haunglongbing (Citrus greening).",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Haunglongbing (Citrus greening).",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Peach___Bacterial_spot": {
+    "description": "Bacterial spot is a disease affecting Peach plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Bacterial spot.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Bacterial spot.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Peach___healthy": {
+    "description": "This Peach plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "description": "Bacterial spot is a disease affecting Pepper, bell plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Bacterial spot.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Bacterial spot.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Pepper,_bell___healthy": {
+    "description": "This Pepper, bell plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Potato___Early_blight": {
+    "description": "Early blight is a disease affecting Potato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Early blight.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Early blight.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Potato___Late_blight": {
+    "description": "Late blight is a disease affecting Potato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Late blight.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Late blight.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Potato___healthy": {
+    "description": "This Potato plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Raspberry___healthy": {
+    "description": "This Raspberry plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Soybean___healthy": {
+    "description": "This Soybean plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Squash___Powdery_mildew": {
+    "description": "Powdery mildew is a disease affecting Squash plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Powdery mildew.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Powdery mildew.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Strawberry___Leaf_scorch": {
+    "description": "Leaf scorch is a disease affecting Strawberry plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Leaf scorch.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Leaf scorch.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Strawberry___healthy": {
+    "description": "This Strawberry plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  },
+  "Tomato___Bacterial_spot": {
+    "description": "Bacterial spot is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Bacterial spot.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Bacterial spot.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___Early_blight": {
+    "description": "Early blight is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Early blight.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Early blight.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___Late_blight": {
+    "description": "Late blight is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Late blight.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Late blight.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___Leaf_Mold": {
+    "description": "Leaf Mold is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Leaf Mold.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Leaf Mold.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "description": "Septoria leaf spot is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Septoria leaf spot.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Septoria leaf spot.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "description": "Spider mites Two-spotted spider mite is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Spider mites Two-spotted spider mite.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Spider mites Two-spotted spider mite.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___Target_Spot": {
+    "description": "Target Spot is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Target Spot.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Target Spot.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "description": "Tomato Yellow Leaf Curl Virus is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Tomato Yellow Leaf Curl Virus.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Tomato Yellow Leaf Curl Virus.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "description": "Tomato mosaic virus is a disease affecting Tomato plants that can reduce plant health and crop yield if left unmanaged.",
+    "symptoms": "Typical symptoms include leaf discoloration, spots, lesions, wilting, or abnormal growth associated with Tomato mosaic virus.",
+    "causes": "This condition is commonly caused by fungal, bacterial, viral pathogens or pests depending on Tomato mosaic virus.",
+    "treatment": "Remove infected plant parts, apply suitable fungicide, bactericide, insecticide, or other recommended control measures, and follow local agricultural guidance.",
+    "prevention": "Use disease-free planting material, ensure proper spacing, avoid excess moisture, rotate crops, and inspect plants regularly."
+  },
+  "Tomato___healthy": {
+    "description": "This Tomato plant appears healthy with no visible signs of major disease.",
+    "symptoms": "Leaves appear normal with healthy color and growth.",
+    "causes": "No disease detected.",
+    "treatment": "No treatment required. Continue regular care.",
+    "prevention": "Maintain proper watering, nutrition, sanitation, and periodic monitoring."
+  }
+}
