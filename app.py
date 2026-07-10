@@ -14,7 +14,7 @@ def load_model():
 
     if not os.path.exists("model.h5"):
         file_id = "1VPCpaLqeOa9P9QjTOpGzYX14CBH8piEp"
-        url = f"https://drive.google.com/uc?id={file_id}"
+        url = f"https://drive.google.com/uc?export=download&id={file_id}"
         gdown.download(url, "model.h5", quiet=False)
 
     return tf.keras.models.load_model("model.h5")
