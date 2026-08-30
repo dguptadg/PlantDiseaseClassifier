@@ -127,7 +127,7 @@ The notebook compares all three models using identical evaluation metrics, makin
 ## Interface and Outputs
 <img width="770" height="545" alt="Web Application Input" src="./Web%20input.png" />
 
-<!-- <img width="770" height="545" alt="Web Application Output" src="./Web%20output.png" /> -->
+<img width="770" height="545" alt="Web Application Output" src="./Web%20output%20final.png" /> 
 
 
 ## Future Improvements
