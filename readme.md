@@ -82,11 +82,6 @@ The notebook generates several graphs to help analyze model performance.
 
 ### Training & Validation Accuracy
 
-<img width="770" height="545" alt="CNN Accuracy" src="./CNN%20accuracy.png" />
-
-<img width="770" height="545" alt="VGG Accuracy" src="./VGG%20accuracy.png" />
-
-
 <img width="770" height="545" alt="ResNet Accuracy" src="./ResNet%20accuracy.png" />
 
 
@@ -94,24 +89,12 @@ The notebook generates several graphs to help analyze model performance.
 
 ### Confusion Matrices
 
-<img width="770" height="545" alt="CNN Confusion Matrix" src="./CNN%20confusionMatrix.png" />
-
-
-<img width="770" height="545" alt="VGG Confusion Matrix" src="./VGG%20confusionMatrix.png" />
-
-
 <img width="770" height="545" alt="ResNet Confusion Matrix" src="./ResNet%20confusionMatrix.png" />
 
 
 ---
 
 ### ROC Curves
-
-<img width="770" height="545" alt="CNN ROC-AUC" src="./CNN%20ROC-AUC.png" />
-
-
-<img width="770" height="545" alt="VGG ROC-AUC" src="./VGG%20ROC-AUC.png" />
-
 
 <img width="770" height="545" alt="ResNet ROC-AUC" src="./ResNet%20ROC-AUC.png" />
 
