@@ -22,7 +22,6 @@ The notebook covers the complete workflow, including:
 - Performance evaluation
 - Model comparison
 - Disease prediction on new images
-- Recommendation generation using Gemini AI
 
 ---
 
@@ -58,7 +57,6 @@ Uses the pretrained ResNet50 architecture with fine-tuning for plant disease cla
 - Pandas
 - Matplotlib
 - Pillow
-- Google Gemini API
 
 ---
 
